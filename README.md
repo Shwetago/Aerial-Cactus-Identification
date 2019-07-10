@@ -10,4 +10,6 @@ This dataset contains a large number of 32 x 32 thumbnail images containing aeri
 
 You must create a classifier capable of predicting whether an images contains a cactus.
 
-I have used Keras on tensorflow backend and use Image Data Generator for Image Processing which gives me 99.6% accuracy on public Lb.
+Two files has been uploaded:
+1.) Using Keras on tensorflow backend and use Image Data Generator for Image Processing which gives me `99.70%` accuracy on public Lb.
+2.) Using pretrained model VGG16 with keras which gives me `99.80%` accuracy on public LB.
